@@ -1,0 +1,284 @@
+/* body {
+} */
+nav {
+  background-color: #2d2d48;
+  color: white;
+}
+.navbar-brand {
+  width: 200px;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+#bami-btn {
+  border-color: rgb(45, 45, 72);
+  border: solid 2px white;
+  color: white;
+}
+
+#bami-btn2 {
+  background-color: rgb(202, 76, 36);
+  height: 50px;
+  color: white;
+}
+
+.hero-section {
+  background-color: #2d2d48;
+}
+
+.digital-section {
+  color: white;
+  display: flex;
+  margin-top: 40px;
+}
+.text-section {
+  margin: 50px;
+}
+
+.digital-section img {
+  height: 500px;
+  width: 600px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+
+.logo-section {
+  background-color: rgb(241, 247, 250);
+  height: 250px;
+}
+.logo-section img {
+  height: 32px;
+  margin: 26px;
+  margin-top: 100px;
+}
+
+.power {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+.listing-section ul {
+  display: flex;
+  justify-content: start;
+  gap: 30px;
+  list-style: none;
+  margin-left: 20px;
+}
+
+.listing-section a {
+  text-decoration: none;
+  color: black;
+  position: relative;
+}
+
+.for {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+.Industry {
+  display: flex;
+  font-size: 17px;
+  margin-left: 50px;
+}
+.Industry img {
+  height: 400px;
+  width: 600px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+
+.partner-container {
+  background-color: rgb(241, 247, 250);
+  height: 250px;
+  text-align: center;
+}
+
+.partners {
+  display: flex;
+  margin-left: 150px;
+  margin-top: 30px;
+  font-size: 20px;
+  gap: 30px;
+  height: 30px;
+}
+
+.Go-To {
+  text-align: center;
+}
+
+.payment {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.p-tag {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+.single {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.single #ola {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.orange {
+  background-image: linear-gradient(
+    to right,
+    rgb(233, 132, 83),
+    rgb(180, 82, 199)
+  );
+  /* height: 350px; */
+  border: none;
+  padding: 10px 60px;
+}
+
+.deep-orange {
+  background-image: linear-gradient(
+    to right,
+    rgb(201, 115, 72),
+    rgb(154, 70, 102)
+  );
+  padding: 20px 60px;
+}
+
+.text {
+  text-align: center;
+  color: white;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.CEO {
+  background-color: #2d2d48;
+  color: white;
+  text-align: center;
+  height: 200px;
+  margin-bottom: 50px;
+}
+
+.custom-section {
+  display: flex;
+  font-size: 20px;
+}
+
+.nil-section {
+  margin: 50px;
+}
+
+.custom-section img {
+  height: 450px;
+  width: 550px;
+  margin-top: 40px;
+  margin-left: 120px;
+  margin-right: 60px;
+}
+
+.real-section img {
+  height: 350px;
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 150px;
+  margin-right: 60px;
+}
+
+.real-section {
+  display: flex;
+  font-size: 20px;
+}
+
+.time-section {
+  margin: 100px;
+  margin-top: 150px;
+}
+
+.secure-section {
+  display: flex;
+  font-size: 20px;
+}
+
+.solution-section {
+  margin: 50px;
+}
+
+.secure-section img {
+  height: 450px;
+  width: 550px;
+  margin-top: 50px;
+  margin-left: 120px;
+  margin-right: 60px;
+}
+
+.mx-section {
+  background-color: rgb(241, 247, 250);
+  height: 300px;
+}
+
+.part {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.mx-section img {
+  height: 142px;
+  margin: 5px;
+  margin-top: 50px;
+  width: 160px;
+  margin-left: 80px;
+  margin-right: 7px;
+}
+
+.connect {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.orange {
+  background-color: rgb(204, 104, 103);
+  height: 350px;
+  border: none;
+  border-style: double;
+}
+
+.deep-orange {
+  background-color: rgb(165, 86, 102);
+  width: 100%;
+  height: 250px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.text {
+  text-align: center;
+  color: white;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.CEO {
+  background-color: #2d2d48;
+  color: white;
+  text-align: center;
+  height: 200px;
+  margin-bottom: 50px;
+}
+
+.innovate {
+  margin-top: 40px;
+  height: 500px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+.expert {
+  background-color: #2d2d48;
+  color: white;
+  text-align: center;
+  height: 200px;
+}
